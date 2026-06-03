@@ -84,7 +84,27 @@
 
 ---
 
+## 🤝 CONNECT.NETWORK() → ESTABLISH LINK
+
 <div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratanak123456)
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=4000&pause=1000&color=FF0000&background=00000000&center=false&vCenter=true&width=320&lines=%F0%9F%90%BB%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%F0%9F%BA%BF;%F0%9F%BA%BF%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%F0%9F%90%BB" alt="Pacman Animation" valign="middle" />
+
+</div>
+
+---
+
+## 🎯 < THANKS FOR VISITING /> 🎯
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/type=waving&color=0055ff&height=140&section=footer&text=SYSTEM%20SHUTTING%20DOWN...&fontSize=32&fontColor=ffffff" width="100%" />
+
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=Ratanak123456&icon=6&color=6)](https://visitcount.itsvg.in)
 

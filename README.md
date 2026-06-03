@@ -36,7 +36,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats-eta-five-94.vercel.app&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Ratanak123456&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats-eta-five-94.vercel.app/?username=Ratanak123456&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+![](https://github-profile-trophy.vercel.app/?username=Ratanak123456&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats-eta-five-94.vercel.app&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ratanak123456&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 

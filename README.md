@@ -52,7 +52,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ratanak123456&background=0d1117&title=FF2A55&text=ffffff&dates=00FF66&sideLabels=ffffff&sideValues=00FF66&stroke=00FF66&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ratanak123456&background=0d1117&title=FF2A55&text=ffffff&fire=FF2A55&ring=00FF66&dates=00FF66&sideLabels=ffffff&sideValues=00FF66&stroke=00FF66&hide_border=true" />
 
 </div>
 
@@ -61,7 +61,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratanak123456&bg_color=0d1117&color=FF2A55&line=00FF66&point=ffffff&hide_border=true&area=true" width="100%" alt="Ratanak's RGB Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratanak123456&bg_color=0d1117&color=FF2A55&line=00FF66&point=ffffff&hide_border=true&area=true" width="100%" alt="Ratanak's Activity Graph" />
 </div>
 
 ---

@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Ratanak123456">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Ratanak+%F0%9F%91%8B;Full-stack+Developer;Building+cool+stuff+from+Cambodia+%F0%9F%87%B0%F0%9F%87%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=FF2A55&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Ratanak+%F0%9F%91%8B;Full-stack+Developer;Building+cool+stuff+from+Cambodia+%F0%9F%87%B0%F0%9F%87%AD" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -42,17 +42,17 @@
 <table border="0">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-eta-five-94.vercel.app/api?username=Ratanak123456&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+      <img src="https://github-readme-stats-eta-five-94.vercel.app/api?username=Ratanak123456&bg_color=0d1117&title_color=FF2A55&text_color=ffffff&icon_color=00FF66&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-eta-five-94.vercel.app/api/top-langs/?username=Ratanak123456&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+      <img src="https://github-readme-stats-eta-five-94.vercel.app/api/top-langs/?username=Ratanak123456&bg_color=0d1117&title_color=FF2A55&text_color=ffffff&icon_color=00FF66&hide_border=true&layout=compact" height="165"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ratanak123456&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ratanak123456&background=0d1117&title=FF2A55&text=ffffff&dates=00FF66&sideLabels=ffffff&sideValues=00FF66&stroke=00FF66&hide_border=true" />
 
 </div>
 
@@ -61,7 +61,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratanak123456&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Ratanak's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratanak123456&bg_color=0d1117&color=FF2A55&line=00FF66&point=ffffff&hide_border=true&area=true" width="100%" alt="Ratanak's RGB Activity Graph" />
 </div>
 
 ---

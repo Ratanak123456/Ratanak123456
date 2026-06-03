@@ -1,9 +1,13 @@
 name: Generate Datas
 
 on:
-  schedule: # Runs automatically every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Allows you to run it manually at any time
+  workflow_dispatch:
+
+# Grant write permissions to the GITHUB_TOKEN inside this specific script
+permissions:
+  contents: write
 
 jobs:
   build:

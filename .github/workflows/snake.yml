@@ -16,17 +16,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Generates the snake files using custom hex colors for the blocks
       - name: Generate Snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FF2A55&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FF2A55
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Directly deploys the contents of the dist folder to your output branch
       - name: Deploy to Output Branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:

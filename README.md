@@ -106,10 +106,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/type=waving&color=0055ff&height=140&section=footer&text=SYSTEM%20SHUTTING%20DOWN...&fontSize=32&fontColor=ffffff" width="100%" />
-
-<br/>
-
 [![](https://visitcount.itsvg.in/api?id=Ratanak123456&icon=6&color=6)](https://visitcount.itsvg.in)
 
 *Crafted with ♥ from Cambodia 🇰🇭*

@@ -88,8 +88,8 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ratanaksaren123)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratanaksaren3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratanak123456)
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=4000&pause=1000&color=FF0000&background=00000000&center=false&vCenter=true&width=320&lines=%F0%9F%90%BB%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%F0%9F%BA%BF;%F0%9F%BA%BF%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%F0%9F%90%BB" alt="Pacman Animation" valign="middle" />

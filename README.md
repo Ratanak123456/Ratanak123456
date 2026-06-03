@@ -36,7 +36,7 @@
 
 <br/>
 
-<img src="github-readme-stats-eta-five-94.vercel.app&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-eta-five-94.vercel.app&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Ratanak123456&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+![](https://github-readme-stats-eta-five-94.vercel.app/?username=Ratanak123456&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 

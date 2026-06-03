@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
 ### 🎨 Frontend & Design
@@ -31,6 +32,14 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+### 🛠️ DevOps, Identity & OS
+<div align="left">
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keycloak-%23E2A626.svg?style=for-the-badge&logo=keycloak&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
 ---
@@ -105,6 +114,10 @@
 <img src="https://i.pinimg.com/originals/d2/72/ed/d272eda2623cc701fb70660ec07e0081.gif" width="60%" alt="Thank You Dino GIF" />
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/type=waving&color=0055ff&height=140&section=footer&text=SYSTEM%20SHUTTING%20DOWN...&fontSize=32&fontColor=ffffff" width="100%" />
+
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=Ratanak123456&icon=6&color=6)](https://visitcount.itsvg.in)
 

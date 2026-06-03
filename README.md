@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/type=waving&color=0055ff&height=140&section=footer&text=SYSTEM%20SHUTTING%20DOWN...&fontSize=32&fontColor=ffffff" width="100%" />
+<img src="https://i.pinimg.com/originals/d2/72/ed/d272eda2623cc701fb70660ec07e0081.gif width="100%" />
 
 <br/>
 

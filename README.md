@@ -3,9 +3,6 @@
 <a href="https://github.com/Ratanak123456">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Ratanak+%F0%9F%91%8B;Full-stack+Developer;Building+cool+stuff+from+Cambodia+%F0%9F%87%B0%F0%9F%87%AD" alt="Typing SVG" />
 </a>
-
-<img src="https://i.pinimg.com/736x/58/c6/91/58c691494590c6345a21c69de02344b2.jpg" width="120" style="border-radius:50%"/>
-
 </div>
 
 ---

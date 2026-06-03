@@ -58,6 +58,14 @@
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratanak123456&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Ratanak's Activity Graph" />
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">

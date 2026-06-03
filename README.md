@@ -31,8 +31,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ratanak123456&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ratanak123456&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+<img src="https://github-readme-stats-eta-five-94.vercel.app/api?username=Ratanak123456&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-eta-five-94.vercel.app/api/top-langs/?username=Ratanak123456&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 
 <br/>
 

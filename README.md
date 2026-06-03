@@ -52,26 +52,16 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ratanak123456&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Ratanak123456&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Contributions
+## 🐍 Contribution Snake
 
-### 🏅 GitHub Trophies
 <div align="center">
-
-![](https://github-profile-trophy-liard-delta.vercel.app/?username=Ratanak123456&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
-### 🔝 Top Contributed Repositories
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Ratanak123456&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+  <img src="https://raw.githubusercontent.com/Ratanak123456/Ratanak123456/output/github-contribution-grid-snake.svg" alt="Github Snake Grid" />
 </div>
 
 ---
